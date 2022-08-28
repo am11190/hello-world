@@ -1,2 +1,2 @@
 # hello-world
-my firs trepository
+my first trepository
